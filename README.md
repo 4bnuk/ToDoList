@@ -2,4 +2,5 @@
 
 A simple to do list with php and materializecss.
 
-https://github.com/4bnuk/ToDoList/blob/main/screenshot/list.jpg
+
+<img src="https://github.com/4bnuk/ToDoList/blob/main/screenshot/list.jpg" width="800px" height="auto">
