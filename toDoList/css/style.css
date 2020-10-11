@@ -1,0 +1,15 @@
+.is_completed {
+    background-color: gainsboro !important; 
+}
+
+.helper-text {
+    color: red !important;
+}
+
+.login_img {
+    width: 90% !important;
+}
+
+#task {
+    margin-top: 40px;
+}
