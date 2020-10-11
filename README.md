@@ -1,6 +1,6 @@
 # ToDoList
 
-A simple to do list with php and materializecss.
+A simple to do list built with php and materializecss.
 
 ## Screenshot
 
