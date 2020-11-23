@@ -43,8 +43,6 @@ if ($_SERVER["REQUEST_METHOD"] == "GET" && !empty($_GET['complete'])) {
         $stmt->bind_param("iii",$status, $id, $user_id);
         $stmt->execute();
         $stmt->close();
-    } else {
-        
     }
     
 }
